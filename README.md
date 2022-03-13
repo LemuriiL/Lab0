@@ -13,7 +13,7 @@
 ### Git
 Git - это распределённая система управления версиями исходного кода. (мы вот сейчас в нём)
 
-<img align="center" width="300" height="150" src="https://asamtech.ru/Resource/Images/GitHub-Logo.png">
+<img align="center" width="500" height="250" src="https://miro.medium.com/max/1200/1*hED79iPpQEcVg4R7BJs3SA.jpeg">
 
 
 Git поддерживает быстрое разделение и слияние версий, включает инструменты для визуализации
@@ -59,7 +59,7 @@ IDE (integrated development environment) включает в себя эти к�
 
 Google не кусается, я проверял
 
-<img align="center" width="300" height="150" src="https://sun9-74.userapi.com/impf/vmz9Y6L4nBiRfY4rISnvGCl3HbBzJ8DcZkXmZg/Uv9w0xF6s4s.jpg?size=1024x680&quality=96&sign=84207e971cf6299d8c7b9a1ab1d29980&type=album">
+<img align="center" width="400" height="200" src="https://sun9-74.userapi.com/impf/vmz9Y6L4nBiRfY4rISnvGCl3HbBzJ8DcZkXmZg/Uv9w0xF6s4s.jpg?size=1024x680&quality=96&sign=84207e971cf6299d8c7b9a1ab1d29980&type=album">
 
 ### Используйте клиент git
 Использование веб версии сервиса github не самый удачный выбор, 
